@@ -1,0 +1,44 @@
+header{
+    background-color: #f00;
+    height: 100;
+    width: 800;
+    border-bottom: 10px solid aqua;
+}
+nav{
+    height: 80px;
+    width: 450px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+section{
+    width: 800px;
+    overflow: auto;
+    background-color: aqua;
+}
+article{
+    width: 634px;
+    height: 280px;
+    background-color: #ff0;
+    overflow: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+aside{
+    width: 126px;
+    height: 300px;
+    background-color: #00f;
+    float: left;
+    margin-left: 10px;
+}
+footer{
+    background-color: #0f0;
+    width: 800px;
+    height: 30px;
+}
+.bodytxt {
+    font-family:cursive;
+    font-size: 10px;
+}
